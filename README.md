@@ -24,3 +24,9 @@ npm i react-jss
 
 # Installi hook useForm jaoks
 npm i react-hook-form
+
+# VSi projekti koodi ühendamine githubi repoga
+git init
+git remote add origin http://github.com/pallliisi/Shoebert.git (lisatud githubi repo link)
+git branch -M main
+
